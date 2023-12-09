@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vivence/static/css/main.252fad36.css",
-    "main.js": "/Vivence/static/js/main.89b85f3a.js",
+    "main.js": "/Vivence/static/js/main.43a4d2fd.js",
     "static/media/hero-section-picture.png": "/Vivence/static/media/hero-section-picture.a93757069e58c29f9cba.png",
     "static/media/alt-about-section-picture.png": "/Vivence/static/media/alt-about-section-picture.3e14d2e740002664c925.png",
     "static/media/about-section-picture.png": "/Vivence/static/media/about-section-picture.20919f93bbf5500abf7b.png",
@@ -14,10 +14,10 @@
     "static/media/usa-flag.png": "/Vivence/static/media/usa-flag.811a3d90efb6d97151c8.png",
     "index.html": "/Vivence/index.html",
     "main.252fad36.css.map": "/Vivence/static/css/main.252fad36.css.map",
-    "main.89b85f3a.js.map": "/Vivence/static/js/main.89b85f3a.js.map"
+    "main.43a4d2fd.js.map": "/Vivence/static/js/main.43a4d2fd.js.map"
   },
   "entrypoints": [
     "static/css/main.252fad36.css",
-    "static/js/main.89b85f3a.js"
+    "static/js/main.43a4d2fd.js"
   ]
 }
