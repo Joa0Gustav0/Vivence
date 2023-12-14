@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Vivence/static/css/main.252fad36.css",
-    "main.js": "/Vivence/static/js/main.1e15a3e7.js",
-    "static/media/hero-section-picture.png": "/Vivence/static/media/hero-section-picture.a93757069e58c29f9cba.png",
-    "static/media/alt-about-section-picture.png": "/Vivence/static/media/alt-about-section-picture.3e14d2e740002664c925.png",
-    "static/media/about-section-picture.png": "/Vivence/static/media/about-section-picture.20919f93bbf5500abf7b.png",
-    "static/media/reviews-section-picture-1.jpg": "/Vivence/static/media/reviews-section-picture-1.6af182b665148e0ee301.jpg",
-    "static/media/reviews-section-picture-2.jpg": "/Vivence/static/media/reviews-section-picture-2.0d49662a5701af5e92a6.jpg",
-    "static/media/reviews-section-picture-4.jpg": "/Vivence/static/media/reviews-section-picture-4.7ed0f69569361b1ceacf.jpg",
-    "static/media/reviews-section-picture-3.jpg": "/Vivence/static/media/reviews-section-picture-3.0e5ebf2080e380d3e23d.jpg",
-    "static/media/brazil-flag.png": "/Vivence/static/media/brazil-flag.3fec3dca5b4c34bcb66b.png",
-    "static/media/argentina-flag.png": "/Vivence/static/media/argentina-flag.12e98f591e63e86ee8a4.png",
-    "static/media/usa-flag.png": "/Vivence/static/media/usa-flag.811a3d90efb6d97151c8.png",
-    "index.html": "/Vivence/index.html",
-    "main.252fad36.css.map": "/Vivence/static/css/main.252fad36.css.map",
-    "main.1e15a3e7.js.map": "/Vivence/static/js/main.1e15a3e7.js.map"
+    "main.css": "/vivence-landing-page/static/css/main.252fad36.css",
+    "main.js": "/vivence-landing-page/static/js/main.0dc48cf3.js",
+    "static/media/hero-section-picture.png": "/vivence-landing-page/static/media/hero-section-picture.a93757069e58c29f9cba.png",
+    "static/media/alt-about-section-picture.png": "/vivence-landing-page/static/media/alt-about-section-picture.3e14d2e740002664c925.png",
+    "static/media/about-section-picture.png": "/vivence-landing-page/static/media/about-section-picture.20919f93bbf5500abf7b.png",
+    "static/media/reviews-section-picture-1.jpg": "/vivence-landing-page/static/media/reviews-section-picture-1.6af182b665148e0ee301.jpg",
+    "static/media/reviews-section-picture-2.jpg": "/vivence-landing-page/static/media/reviews-section-picture-2.0d49662a5701af5e92a6.jpg",
+    "static/media/reviews-section-picture-4.jpg": "/vivence-landing-page/static/media/reviews-section-picture-4.7ed0f69569361b1ceacf.jpg",
+    "static/media/reviews-section-picture-3.jpg": "/vivence-landing-page/static/media/reviews-section-picture-3.0e5ebf2080e380d3e23d.jpg",
+    "static/media/brazil-flag.png": "/vivence-landing-page/static/media/brazil-flag.3fec3dca5b4c34bcb66b.png",
+    "static/media/argentina-flag.png": "/vivence-landing-page/static/media/argentina-flag.12e98f591e63e86ee8a4.png",
+    "static/media/usa-flag.png": "/vivence-landing-page/static/media/usa-flag.811a3d90efb6d97151c8.png",
+    "index.html": "/vivence-landing-page/index.html",
+    "main.252fad36.css.map": "/vivence-landing-page/static/css/main.252fad36.css.map",
+    "main.0dc48cf3.js.map": "/vivence-landing-page/static/js/main.0dc48cf3.js.map"
   },
   "entrypoints": [
     "static/css/main.252fad36.css",
-    "static/js/main.1e15a3e7.js"
+    "static/js/main.0dc48cf3.js"
   ]
 }
