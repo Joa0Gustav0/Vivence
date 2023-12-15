@@ -32,7 +32,7 @@ export default function Header({ lang, navbarActive, setNavbarActive }) {
       className="fixed -top-[1px] left-1/2 -translate-x-1/2 w-full max-w-[1366px] z-50 transition-all duration-200"
     >
       <div className="relative flex justify-center lg:justify-between m-auto items-center w-full px-8 py-6">
-        <a href="/" className="flex items-center gap-3">
+        <a href="" className="flex items-center gap-3">
           <h1 className=" font-DMSerifDisplay capitalize font-normal text-main text-4xl">
             Vivence.
           </h1>
