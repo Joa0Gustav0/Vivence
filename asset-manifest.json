@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vivence-landing-page/static/css/main.252fad36.css",
-    "main.js": "/vivence-landing-page/static/js/main.0dc48cf3.js",
+    "main.js": "/vivence-landing-page/static/js/main.ffadb131.js",
     "static/media/hero-section-picture.png": "/vivence-landing-page/static/media/hero-section-picture.a93757069e58c29f9cba.png",
     "static/media/alt-about-section-picture.png": "/vivence-landing-page/static/media/alt-about-section-picture.3e14d2e740002664c925.png",
     "static/media/about-section-picture.png": "/vivence-landing-page/static/media/about-section-picture.20919f93bbf5500abf7b.png",
@@ -14,10 +14,10 @@
     "static/media/usa-flag.png": "/vivence-landing-page/static/media/usa-flag.811a3d90efb6d97151c8.png",
     "index.html": "/vivence-landing-page/index.html",
     "main.252fad36.css.map": "/vivence-landing-page/static/css/main.252fad36.css.map",
-    "main.0dc48cf3.js.map": "/vivence-landing-page/static/js/main.0dc48cf3.js.map"
+    "main.ffadb131.js.map": "/vivence-landing-page/static/js/main.ffadb131.js.map"
   },
   "entrypoints": [
     "static/css/main.252fad36.css",
-    "static/js/main.0dc48cf3.js"
+    "static/js/main.ffadb131.js"
   ]
 }
